@@ -1,0 +1,45 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.258055,43.64745 ]
+    },
+    "properties": {
+    "Port":"Portland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.805445,44.452685 ]
+    },
+    "properties": {
+    "Port":"Searsport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.898591,44.57381 ]
+    },
+    "properties": {
+    "Port":"Bucksport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.99961,44.894935 ]
+    },
+    "properties": {
+    "Port":"Eastport"
+    }
+  }
+]
+}
