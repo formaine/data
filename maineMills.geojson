@@ -1,0 +1,830 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.4290992,45.8992168 ]
+    },
+    "properties": {
+    "Name":"42 Railroad Avenue, LLC - Stacyville",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.6593631,44.7377771 ]
+    },
+    "properties": {
+    "Name":"Carrier Chipping - Hinckley",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5376087,44.5509374 ]
+    },
+    "properties": {
+    "Name":"Catalyst - Rumford",
+    "Type":"Pulp and Paper Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5376087,44.5509374 ]
+    },
+    "properties": {
+    "Name":"Catalyst Paper Cogenerator - Rumford",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.4469055,45.4425698 ]
+    },
+    "properties": {
+    "Name":"Chester Forest Products - Chester",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.0396422,46.7042846 ]
+    },
+    "properties": {
+    "Name":"Columbia Forest Products - Presque Isle",
+    "Type":"Manufactured Wood Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.008291,44.9909505 ]
+    },
+    "properties": {
+    "Name":"Corinth Wood Pellets - East Corinth",
+    "Type":"Pellet Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.6057621,45.012713 ]
+    },
+    "properties": {
+    "Name":"Costigan Chipping - Costigan",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.9080276,44.8517799 ]
+    },
+    "properties": {
+    "Name":"Cousineau - North Anson",
+    "Type":"Hardwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.5724938,44.6625773 ]
+    },
+    "properties": {
+    "Name":"Covanta - Jonesboro",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.370472,46.515885 ]
+    },
+    "properties": {
+    "Name":"Daaquam Lumber Maine Inc.",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.1763763,44.6860313 ]
+    },
+    "properties": {
+    "Name":"Farmington Chipping Enterprises - Farmington",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.460205,45.4334414 ]
+    },
+    "properties": {
+    "Name":"Gardner Chipping - Chester",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.8466891,46.1469059 ]
+    },
+    "properties": {
+    "Name":"Gardner Chipping - Houlton",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.460205,45.4334414 ]
+    },
+    "properties": {
+    "Name":"Gardner Chipping - Millinocket",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.8339388,44.4461291 ]
+    },
+    "properties": {
+    "Name":"Hammond Lumber - Belgrade",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.843055,44.489078 ]
+    },
+    "properties": {
+    "Name":"Hammond Lumber Company",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7345984,44.4114486 ]
+    },
+    "properties": {
+    "Name":"Hancock Lumber - Bethel",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.546476,43.984644 ]
+    },
+    "properties": {
+    "Name":"Hancock Lumber - Casco",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.393953,44.7754329 ]
+    },
+    "properties": {
+    "Name":"Hancock Lumber - Pittsfield",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.547153,43.984722 ]
+    },
+    "properties": {
+    "Name":"Hancock Lumber Company, Inc.",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.735278,44.415405 ]
+    },
+    "properties": {
+    "Name":"Hancock Lumber Company, Inc.",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.390155,44.794353 ]
+    },
+    "properties": {
+    "Name":"Hancock Lumber Company, Inc.",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.3923088,45.169155 ]
+    },
+    "properties": {
+    "Name":"Hardwood Products - Guilford",
+    "Type":"Hardwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.9060262,46.6665243 ]
+    },
+    "properties": {
+    "Name":"Huber OSB - Easton",
+    "Type":"Manufactured Wood Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.450341,44.53272 ]
+    },
+    "properties": {
+    "Name":"Irving Forest Products",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.454344,46.707019 ]
+    },
+    "properties": {
+    "Name":"Irving Forest Products, Ashland",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.9286086,47.1909169 ]
+    },
+    "properties": {
+    "Name":"J. D. Irving - Ashland",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.4495744,44.5317825 ]
+    },
+    "properties": {
+    "Name":"J. D. Irving - Dixfield",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.1609446,46.107906 ]
+    },
+    "properties": {
+    "Name":"Katahdin Forest Products - Oakfield",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.852741,44.9452456 ]
+    },
+    "properties": {
+    "Name":"Kennebec Lumber - Solon",
+    "Type":"Hardwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2186535,44.805846 ]
+    },
+    "properties": {
+    "Name":"Lignetics, LLC - Strong",
+    "Type":"Pellet Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6998323,43.8112555 ]
+    },
+    "properties": {
+    "Name":"Limington Lumber - East Baldwin",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.699815,43.811111 ]
+    },
+    "properties": {
+    "Name":"Limington Lumber Company",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8912963,44.1227416 ]
+    },
+    "properties": {
+    "Name":"Lovell Lumber - Lovell",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.884651,44.188968 ]
+    },
+    "properties": {
+    "Name":"Lovell Lumber Company, Inc.",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.3566975,44.2776616 ]
+    },
+    "properties": {
+    "Name":"Lowell Lumber - Buckfield",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.356822,44.277729 ]
+    },
+    "properties": {
+    "Name":"Lowell, R.E., Lumber, Inc.",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.9580206,46.1141828 ]
+    },
+    "properties": {
+    "Name":"LP OSB - Houlton",
+    "Type":"Manufactured Wood Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.986263,45.2533339 ]
+    },
+    "properties": {
+    "Name":"Lumbra-Oscar & Rueben - Milo",
+    "Type":"Hardwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.3591327,46.5318748 ]
+    },
+    "properties": {
+    "Name":"Maibec Lumber - Masardis",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.5036011,46.7529306 ]
+    },
+    "properties": {
+    "Name":"Maine Wood - Portage",
+    "Type":"Hardwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.6627883,44.9458177 ]
+    },
+    "properties": {
+    "Name":"Maine Wood Pellets - Athens",
+    "Type":"Pellet Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5253889,44.288833 ]
+    },
+    "properties": {
+    "Name":"Midwest Price - West Paris",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.9313686,45.2261969 ]
+    },
+    "properties": {
+    "Name":"Milo Chipping - Milo",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.5428695,44.1921195 ]
+    },
+    "properties": {
+    "Name":"N. C. Hunt - Jefferson",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.4330139,46.6333198 ]
+    },
+    "properties": {
+    "Name":"Northeast Pellets, LLC - Ashland",
+    "Type":"Pellet Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.1742687,44.4594657 ]
+    },
+    "properties": {
+    "Name":"Pallet One/Isaacson Lumber - Livermore Falls",
+    "Type":"Hardwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.9269714,45.1038017 ]
+    },
+    "properties": {
+    "Name":"Parker Lumber - Charleston",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.1966577,45.2013774 ]
+    },
+    "properties": {
+    "Name":"Pleasant River Lumber - Dover-Foxcroft",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.3820974,44.5528985 ]
+    },
+    "properties": {
+    "Name":"Pleasant River Lumber - Hancock",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.1966577,45.2013774 ]
+    },
+    "properties": {
+    "Name":"Pleasant River Lumber - Jackman",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6848653,43.4257789 ]
+    },
+    "properties": {
+    "Name":"Pleasant River Lumber - Sanford",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.253673,45.645324 ]
+    },
+    "properties": {
+    "Name":"Pleasant River Lumber Co. -Moose River",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.195401,45.201393 ]
+    },
+    "properties": {
+    "Name":"Pleasant River Lumber Company",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.382392,44.552939 ]
+    },
+    "properties": {
+    "Name":"Pleasant River Pine-Hancock",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.685248,43.425591 ]
+    },
+    "properties": {
+    "Name":"Pleasant River Pine-Sanford",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.8459176,46.7725475 ]
+    },
+    "properties": {
+    "Name":"ReEnergy Fort Fairfield - Fort Fairfield",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.1619415,44.4316787 ]
+    },
+    "properties": {
+    "Name":"ReEnergy Livermore - Livermore Falls",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.4251937,45.1422386 ]
+    },
+    "properties": {
+    "Name":"ReEnergy Stratton - Stratton",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.441251,45.1815281 ]
+    },
+    "properties": {
+    "Name":"RenTech - Baileyville",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.2014908,44.333849 ]
+    },
+    "properties": {
+    "Name":"Robbins Lumber - Searsmont",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.19998,44.335836 ]
+    },
+    "properties": {
+    "Name":"Robbins Lumber, Inc.",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.6432772,44.7031478 ]
+    },
+    "properties": {
+    "Name":"Sappi Somerset - Hinckley",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.6432772,44.7031478 ]
+    },
+    "properties": {
+    "Name":"Sappi Somerset - Hinckley",
+    "Type":"Pulp and Paper Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.349617,43.6833343 ]
+    },
+    "properties": {
+    "Name":"Sappi Westbrook - Westbrook",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.349617,43.6833343 ]
+    },
+    "properties": {
+    "Name":"Sappi Westbrook - Westbrook",
+    "Type":"Pulp and Paper Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.426068, 46.631306]
+    },
+    "properties": {
+    "Name":"Seven Islands - Portage",
+    "Type":"Chip Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.4286851,45.1424863 ]
+    },
+    "properties": {
+    "Name":"Stratton Lumber - Stratton",
+    "Type":"Softwood Sawmill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.428676,45.142506 ]
+    },
+    "properties": {
+    "Name":"Stratton Lumber, Inc.",
+    "Type":"Northeastern Lumber Manufacturers Association"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.329719,47.357967 ]
+    },
+    "properties": {
+    "Name":"Twin Rivers - Madawaska",
+    "Type":"Pulp and Paper Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2396094,44.5103893 ]
+    },
+    "properties": {
+    "Name":"Verso - Jay",
+    "Type":"Pulp and Paper Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2396094,44.5103893 ]
+    },
+    "properties": {
+    "Name":"Verso Paper Cogenerator - Jay",
+    "Type":"Biomass Power Generator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.4046607,45.1573137 ]
+    },
+    "properties": {
+    "Name":"Woodland Pulp - Baileyville",
+    "Type":"Pulp and Paper Mill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.4046607,45.1573137 ]
+    },
+    "properties": {
+    "Name":"Woodland Pulp Biomass - Baileyville",
+    "Type":"Biomass Power Generator"
+    }
+  }
+]
+}
